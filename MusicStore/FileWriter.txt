@@ -1,0 +1,106 @@
+
+====Invoice Report====
+CD Name : Triller
+CD ID : c1
+Number of Copies : 2
+Total Cost : 68
+Sold Date/Time : 2019/08/04 10:38:54
+------------------------------------
+====Invoice Report====
+Vinyl Name : MademX
+Vinyl ID : v1
+Number of Copies : 4
+Total Cost : 144
+Sold Date/Time : 2019/08/04 10:39:07
+------------------------------------
+====Invoice Report====
+CD Name : Triller
+CD ID : c1
+Number of Copies : 4
+Total Cost : 136
+Sold Date/Time : 2019/08/04 10:39:22
+------------------------------------
+====Invoice Report====
+Vinyl Name : HappyF
+Vinyl ID : v5
+Number of Copies : 1
+Total Cost : 34
+Sold Date/Time : 2019/08/04 10:39:29
+------------------------------------
+====Invoice Report====
+CD Name : Triller
+CD ID : c1
+Number of Copies : 1
+Total Cost : 35
+Sold Date/Time : 2019/08/05 06:33:26
+------------------------------------
+====Invoice Report====
+Vinyl Name : HappyF
+Vinyl ID : v5
+Number of Copies : 3
+Total Cost : 102
+Sold Date/Time : 2019/08/05 06:33:55
+------------------------------------
+====Invoice Report====
+CD Name : Triller
+CD ID : c1
+Number of Copies : 2
+Total Cost : 70
+Sold Date/Time : 2019/08/05 06:38:01
+------------------------------------
+====Invoice Report====
+Vinyl Name : HappyF
+Vinyl ID : v5
+Number of Copies : 4
+Total Cost : 136
+Sold Date/Time : 2019/08/05 06:38:05
+------------------------------------
+====Invoice Report====
+Vinyl Name : Hunger
+Vinyl ID : v2
+Number of Copies : 3
+Total Cost : 96
+Sold Date/Time : 2019/08/05 06:43:13
+------------------------------------
+====Invoice Report====
+CD Name : Loveu
+CD ID : c3
+Number of Copies : 3
+Total Cost : 120
+Sold Date/Time : 2019/08/05 06:43:18
+------------------------------------
+====Invoice Report====
+CD Name : Triller
+CD ID : c1
+Number of Copies : 2
+Total Cost : 70
+Sold Date/Time : 2019/08/05 07:13:21
+------------------------------------
+====Invoice Report====
+Vinyl Name : HappyF
+Vinyl ID : v5
+Number of Copies : 4
+Total Cost : 136
+Sold Date/Time : 2019/08/05 07:13:26
+------------------------------------
+====Invoice Report====
+CD Name : Loveu
+CD ID : c3
+Number of Copies : 2
+Total Cost : 80
+Sold Date/Time : 2019/08/05 07:16:08
+------------------------------------
+====Invoice Report====
+Vinyl Name : Hunger
+Vinyl ID : v2
+Number of Copies : 3
+Total Cost : 96
+Sold Date/Time : 2019/08/05 07:16:29
+------------------------------------
+====Invoice Report====
+CD Name : Triller
+CD ID : c1
+Number of Copies : 3
+Total Cost : 105
+Sold Date/Time : 2019/08/07 17:02:23
+------------------------------------

@@ -1,0 +1,10 @@
+CREATE TABLE `musicstore`.`TblCD` ( `CDId` VARCHAR(5) NOT NULL , `CDName` VARCHAR(10) NOT NULL , `CDGenre` VARCHAR(10) NOT NULL , `CDDate` DATE NOT NULL , `CDArtist` VARCHAR(10) NOT NULL , `CDPrice` INT(5) NOT NULL , `CDDuration` INT(5) NOT NULL , PRIMARY KEY (`CDId`)) ENGINE = InnoDB;
+
+
+CREATE TABLE `musicstore`.`tblVinyl` ( `VinylId` VARCHAR(5) NOT NULL , `VinylTitle` VARCHAR(10) NOT NULL , `VinylGenre` VARCHAR(10) NOT NULL , `VinylDate` DATE NOT NULL , `VinylArtist` VARCHAR(10) NOT NULL , `VinylPrice` INT(5) NOT NULL , `VinySpeed` INT(5) NOT NULL , `VinylDuration` INT(5) NOT NULL , PRIMARY KEY (`VinylId`)) ENGINE = InnoDB;
+
+
+SELECT  tblsold.itemTitle, tblsold.itemId,SUM(tblsold.itemCount) as "TotalCount",Month(tblsold.soldDate) as "Month"
+FROM tblsold
+GROUP BY tblsold.itemId
+
